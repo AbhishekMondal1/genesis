@@ -1,0 +1,2 @@
+import scrypt
+print "a"
