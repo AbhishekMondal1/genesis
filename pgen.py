@@ -1,2 +1,2 @@
 import scrypt
-print ("a")
+print "a"
